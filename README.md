@@ -4,9 +4,9 @@ Welcome to the eCommerce Backend API documentation. This API allows you to manag
 
 ## Endpoints and resources
 
-#### POST register-user
+$\color{yellow}{POST}$ register-user
 
-https://ecom-backend-hdop.onrender.com/api/v1/user/register
+> https://ecom-backend-hdop.onrender.com/api/v1/user/register
 
 ##### Body raw(json)
 
@@ -20,9 +20,9 @@ https://ecom-backend-hdop.onrender.com/api/v1/user/register
 }
 ```
 
-#### POST User Sign-in
+#### $\color{yellow}{POST}$ User Sign-in
 
-https://ecom-backend-hdop.onrender.com/api/v1/user/login
+> https://ecom-backend-hdop.onrender.com/api/v1/user/login
 
 ##### Body raw(json)
 
@@ -34,7 +34,7 @@ https://ecom-backend-hdop.onrender.com/api/v1/user/login
 ```
 
 
-#### POST  Forget-password
+#### $\color{yellow}{POST}$  Forget-password
 
 https://ecom-backend-hdop.onrender.com/api/v1/user/forget-password
 
@@ -46,7 +46,7 @@ https://ecom-backend-hdop.onrender.com/api/v1/user/forget-password
 }
 ```
 
-#### POST  Change-password
+#### $\color{yellow}{POST}$  Change-password
 
 https://ecom-backend-hdop.onrender.com/api/v1/user/change-password
 
